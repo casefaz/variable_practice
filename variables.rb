@@ -1,6 +1,9 @@
 pancakes = "very good"
+pancakes = "verstile"
 waffles = "also good"
+waffles = "sweet or savory"
 oatmeal = "disgusting"
+oatmeal = "why"
 
 pancakes_per_person = 5
 waffles_per_person = 2
